@@ -1,0 +1,38 @@
+body{
+font-family: Aerial,sans-serif;
+background-color:grey;
+color:white;
+margin:0;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+#Login-form{
+padding:100px;
+background:white;
+color:black;
+border:5px white solid;
+border-radius:50px;
+}
+
+button{
+margin-top:10px;
+border:2px black solid;
+border-radius:50px;
+width:150px;
+padding:10px;
+}
+
+input{
+padding:5px;
+margin:10px;
+border-radius:5px;
+}
+
+h2{
+font-size:30px;
+fon-weight:bold;
+color:brown;
+}
